@@ -1,4 +1,4 @@
-###  RAD Studio 10.3 Rio
+###  RAD Studio 10.3 Rio & 10.3 Rio Update 1 (10.3.1)
 #
 ###  Help Page
 #
