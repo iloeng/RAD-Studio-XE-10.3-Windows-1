@@ -5,9 +5,19 @@
 
 ==============================================================================#
 
-RADStudioKeyPatch_Lite.zip (which contains the latest updated 'RADStudioKeyPatch_Lite.exe'):
+Activator.zip (which contains the latest updated 'Activator.exe'):
 
 Activator for RAD Studio XE 10.3.2 Rio
+
+http://altd.embarcadero.com/download/radstudio/10.3/delphicbuilder10_3_2_496593.iso
+
+==============================================================================#
+
+==============================================================================#
+
+RADStudioKeyPatch_Lite.zip (which contains the latest updated 'RADStudioKeyPatch_Lite.exe'):
+
+Activator for RAD Studio XE 10.3.2b Rio
 
 http://altd.embarcadero.com/download/radstudio/10.3/delphicbuilder10_3_2_496593b.iso
 
