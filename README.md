@@ -1,4 +1,4 @@
-###  RAD Studio 10.3 Rio & 10.3 Rio Update 1 (10.3.1)
+###  RAD Studio 10.3 Rio & 10.3 Rio Update 1 (10.3.1) & 10.3 Rio Update 2 (10.3.2)
 #
 
 ###  Activation (Patch & Keygen):
@@ -12,7 +12,7 @@ Activator for RAD Studio XE6 Update 1 - 10.3.1 Rio
 Activator for RAD Studio 10.3.1 Rio (Version: 26.0.33219.4899) - http://altd.embarcadero.com/download/radstudio/10.3/delphicbuilder10_3_1_194899.iso
 ==============================================================================#
 
-RadStudioKeygen.exe
+RADStudioKeygen.exe
 
 ==============================================================================#
 ###  Help Page
