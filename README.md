@@ -1,7 +1,13 @@
-###  RAD Studio 10.3 Rio & 10.3 Rio Update 1 (10.3.1) & 10.3 Rio Update 2 (10.3.2)
+###  RAD Studio 10.3 Rio & 10.3 Rio Update 1 (10.3.1) & 10.3 Rio Update 2 (10.3.2) & 10.3 Rio Update 3 (10.3.3)
 #
 
 ###  Activation (Patch & Keygen):
+
+RADStudio-XE5-XE10.3.3-Rio-Patch.zip (which contains the latest updated 'RADStudioKeyPatch_Lite.exe')
+
+Activator for RAD Studio XE 10.3.3 Rio
+
+http://altd.embarcadero.com/download/radstudio/10.3/delphicbuilder10_3_3_7899_nt.iso
 
 ==============================================================================#
 
