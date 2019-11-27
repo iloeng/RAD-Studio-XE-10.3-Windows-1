@@ -1,0 +1,15 @@
+###     Embarcardero License Servers
+#
+127.0.0.1 License.embarcadero.com
+127.0.0.1 Track.embarcadero.com
+127.0.0.1 Comapi.embarcadero.com
+127.0.0.1 Object.ws.sanctx.embarcadero.com
+127.0.0.1 External.ws.sanctx.embarcadero.com
+127.0.0.1 Services.server.V8.srs.sanctuary.codegear.com
+127.0.0.1 Licenseusageservicesimpl.services.server.v8.srs.sanctuary.codegear.com
+127.0.0.1 Registrationservicesimpl.services.server.v8.srs.sanctuary.Codegear.com
+127.0.0.1 Licenserenewalservicesimpl.services.server.v8.srs.sanctuary.codegear.com
+127.0.0.1 License-Stage.codegear.com
+127.0.0.1 License.codegear.com
+127.0.0.1 Installers.embarcadero.com
+#
