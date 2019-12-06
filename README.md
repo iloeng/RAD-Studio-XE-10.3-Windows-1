@@ -9,6 +9,12 @@ Activator for RAD Studio XE 10.3.3 Rio
 
 http://altd.embarcadero.com/download/radstudio/10.3/delphicbuilder10_3_3_7899_nt.iso
 
+Embarcadero.Delphi.10.3.3.v26.0.36039.7899-Architect-Patch.rar
+Embarcadero.Delphi.10.3.3.v26.0.36039.7899-Architect-Patch.zip
+(which contains the latest "Activator.exe")
+
+http://altd.embarcadero.com/download/radstudio/10.3/delphicbuilder10_3_3_7899_nt.iso
+
 ==============================================================================#
 
 Activator.zip (which contains the latest updated 'Activator.exe'):
